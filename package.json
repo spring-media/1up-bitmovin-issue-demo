@@ -14,8 +14,8 @@
     "webpack-dev-server": "3.2.1"
   },
   "dependencies": {
-    "bitmovin-player": "8.2.3",
-    "bitmovin-player-ui": "3.4.0",
+    "bitmovin-player": "8.27.0",
+    "bitmovin-player-ui": "3.9.2",
     "webpack": "4.29.6",
     "webpack-cli": "3.2.3"
   }
